@@ -1,5 +1,6 @@
 # Plugins
-gems:
+#gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -10,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "CSAMSE 2014"
+title: "CSAMSE 2014--"
 # email: "devfest@gdg.org.ua"
 email: "fz_yaoyao@163.com"
 description: "GDG DevFest is a set of events all around the world"
